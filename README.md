@@ -32,9 +32,22 @@ Matplotlib: pip install matplotlib
 
 Beautiful Soup: pip install bs4 ; pip install lxml
 
-Might also have to separately install tkinter if it does not get downloaded alongwith matplotlib
+Might also have to separately install tkinter if it does not get downloaded alongwith matplotlib.
 
 tkinter for ubuntu:  sudo apt-get install python-tk
+
+
+REFERENCES:
+
+https://www.worldometers.info/coronavirus/
+
+
+https://en.wikipedia.org/wiki/Benford%27s_law
+
+
+Netflix series by Latif Nasser - Connected
+
+https://www.youtube.com/watch?v=XQgXKtPSzUI&t=1234s
 
 
 
