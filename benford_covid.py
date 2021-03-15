@@ -17,8 +17,10 @@ try:
     # b.plot_bar(t[0],t[1])
 
     b.plot_bar_line(t[0],t[1],"active case data")
-    
 
+except IndexError:
+    print("Pls enter country name also along with the run command. Eg python3 benford_covid.py india")
+    
 except Exception as e:
     print(e)
 
