@@ -1,5 +1,5 @@
 import benford as b
-import webscrape as ws
+import webscrape_covid_data as ws
 
 try:
 
