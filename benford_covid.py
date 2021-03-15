@@ -3,7 +3,8 @@ import webscrape_covid_data as ws
 
 try:
 
-    c=ws.CovidData("germany")
+    country= input("Enter country name : ")
+    c=ws.CovidData(country)
 
     l=c.active_case_data()
     
